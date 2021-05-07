@@ -1,5 +1,12 @@
-### Hi there 👋
+### About Me
 
+Hi there! My name is Tomasz Gryczka, currently I am 1st year IT student at Warsaw University of Technology.
+
+
+### 📃 Projects
+
+
+### 🔧 Technologies
 <!--
 **Tomasz-Gryczka/Tomasz-Gryczka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
