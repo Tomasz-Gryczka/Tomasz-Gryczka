@@ -56,8 +56,8 @@ My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw Univers
       <br>JUnit 5
     </td>
     <td align="center"  width="96">
-      <a href="#junit">
-        <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="48" height="48" alt="junit" />
+      <a href="#javafx">
+        <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="48" height="48" alt="javafx" />
       </a>
       <br>JavaFX
     </td>
@@ -70,6 +70,13 @@ My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw Univers
   </tr>
 </table>
 
+# 🌱 Currently learning
+* ML/AI algorithms
+* Spring/Spring Boot web development
+
+# :books: Books I'm reading now
+* *Clean Code: A Handbook of Agile Software Craftsmanship* by Robert C. Martin
+
 # 💬 Get in touch
 
 <p align = "center">
@@ -80,18 +87,3 @@ My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw Univers
 </p>
 
 For further information, please check out my [**résumé**]().
-
-<!--
-**Tomasz-Gryczka/Tomasz-Gryczka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
