@@ -13,58 +13,73 @@ My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw Univers
 <table>
   <tr>
     <td colspan="3" align="center"> Programming languages </td> 
-    <td colspan="3" align="center"> Tools </td>
+    <td colspan="2" align="center"> Tools </td>
+    <td colspan="2" align="center"> Frameworks </td>
+    <td colspan="1" align="center"> Databases </td>
   </tr>
   
   <tr>
       <td align="center" width="96">
-      <a href="#Java">
-        <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="48" height="48" alt="Java" />
+      <a href="#java">
+        <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="48" height="48" alt="java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#C">
-        <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="48" height="48" alt="C" />
+      <a href="#c">
+        <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="48" height="48" alt="c" />
       </a>
       <br>C
     </td> 
     <td align="center" width="96">
-      <a href="#Python">
-        <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="48" height="48" alt="Python" />
+      <a href="#python">
+        <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="48" height="48" alt="python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="git" />
       </a>
       <br>Git
     </td> 
     <td align="center"  width="96">
       <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="vscode" />
       </a>
       <br>VS Code
     </td>
+    <td align="center"  width="96">
+      <a href="#junit">
+        <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="48" height="48" alt="junit" />
+      </a>
+      <br>JUnit 5
+    </td>
+    <td align="center"  width="96">
+      <a href="#junit">
+        <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="48" height="48" alt="junit" />
+      </a>
+      <br>JavaFX
+    </td>
+    <td align="center"  width="96">
+      <a href="#mysql">
+        <img src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" width="48" height="48" alt="mysql" />
+      </a>
+      <br>MySQL
+    </td>
   </tr>
 </table>
-
-### Frameworks
-
-### Databeses
-
 
 # 💬 Get in touch
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](https://mail.google.com/mail/?view=cm&fs=1&to=tumek001@gmail.com&su=&body=&bcc=)
+<a href="mailto:tumek001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" ></a>
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](www.linkedin.com/in/gryczka-tomasz)
 
 </p>
 
-For further information, please check out my [**Résumé**]().
+For further information, please check out my [**résumé**]().
 
 <!--
 **Tomasz-Gryczka/Tomasz-Gryczka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
