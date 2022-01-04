@@ -10,9 +10,12 @@ My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw Univers
 
 # 🚀 Skills
 
-### Programming languages
-
 <table>
+  <tr>
+    <td colspan="3" align="center"> Programming languages </td> 
+    <td colspan="3" align="center"> Tools </td>
+  </tr>
+  
   <tr>
       <td align="center" width="96">
       <a href="#Java">
@@ -25,31 +28,20 @@ My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw Univers
         <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="48" height="48" alt="C" />
       </a>
       <br>C
-    </td>
+    </td> 
     <td align="center" width="96">
       <a href="#Python">
         <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
-
-  </tr>
-</table>
-
-### Frameworks
-
-### Tools
-
-<table>
-   <tr>
-     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
-    </td>
-      <td align="center"  width="96">
+    </td> 
+    <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
@@ -57,7 +49,8 @@ My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw Univers
     </td>
   </tr>
 </table>
-   
+
+### Frameworks
 
 ### Databeses
 
