@@ -1,6 +1,6 @@
 # :wave: Hi there!
 
-My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw University of Technology](https://www.pw.edu.pl/engpw).  I love to learn and build something new, productive, innovative and creative. I am passionate about new tools/technologies and how they works.
+My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw University of Technology](https://www.pw.edu.pl/engpw).  I love to learn and build something new, productive, innovative and creative. I am passionate about new tools/technologies and how they work.
 
 
 # 📃 Projects
@@ -11,6 +11,7 @@ My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw Univers
 # 🚀 Skills
 
 ### Programming languages
+
 <table>
   <tr>
       <td align="center" width="96">
@@ -38,6 +39,7 @@ My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw Univers
 ### Frameworks
 
 ### Tools
+
 <table>
    <tr>
      </td>
@@ -60,9 +62,16 @@ My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw Univers
 ### Databeses
 
 
-## 🌱 Things that I am currently working on:
+# 💬 Get in touch
 
+<p align = "center">
 
+[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](https://mail.google.com/mail/?view=cm&fs=1&to=tumek001@gmail.com&su=&body=&bcc=)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](www.linkedin.com/in/gryczka-tomasz)
+
+</p>
+
+For further information, please check out my [**Résumé**]().
 
 <!--
 **Tomasz-Gryczka/Tomasz-Gryczka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
