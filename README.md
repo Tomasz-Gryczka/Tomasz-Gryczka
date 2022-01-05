@@ -6,7 +6,7 @@ My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw Univers
 # 📃 Projects
 | Repository | Status | Description |
 |:---|:---|:---:|
-|[ProjectNameInProgress](https://github.com/Tomasz-Gryczka)| In progress | Project description in progress |
+|[Convey](https://github.com/Tomasz-Gryczka/Convey)| In progress | Simple MVC messaging app that uses spring boot framework. |
 
 # 🚀 Skills
 
@@ -82,8 +82,8 @@ My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw Univers
 <p align = "center">
 
 <a href="mailto:tumek001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" ></a>
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](www.linkedin.com/in/gryczka-tomasz)
-
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/gryczka-tomasz/)
+  
 </p>
 
 For further information, please check out my [**résumé**]().
