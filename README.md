@@ -4,9 +4,10 @@ My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw Univers
 
 
 # 📃 Projects
+
 | Repository | Status | Description |
-|:---|:---|:---:|
-|[Convey](https://github.com/Tomasz-Gryczka/Convey)| In progress | Simple MVC messaging app that uses spring boot framework. |
+|:---:|:---:|:---:|
+|[Convey](https://github.com/Tomasz-Gryczka/Convey)|In progress|One-to-one web chat application using Spring Boot, Hibernate and MySQL|
 
 # 🚀 Skills
 
