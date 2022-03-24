@@ -1,6 +1,10 @@
-# :wave: Hi there!
+# 👋 Hi there!
 
-My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw University of Technology](https://www.pw.edu.pl/engpw).  I love to learn and build something new, productive, innovative and creative. I am passionate about new tools/technologies and how they work.
+<!-- Tomasz Gryczka, a Computer Science undergraduate from [Warsaw University of Technology](https://www.pw.edu.pl/engpw). An aspiring software developer who loves to learn and build something new, productive, innovative and creative. Passionate about new tools/technologies and how they work. -->
+
+My name is Tomasz Gryczka, currently I am 2nd year Computer Science student at [Warsaw University of Technology](https://www.pw.edu.pl/engpw).  I love to learn and build something new, productive, innovative and creative. I am an aspiring software developer who is interested in new tools/technologies and how they work. 
+
+For detailed information please refer to my [**résumé**]().
 
 
 # 📃 Projects
@@ -14,13 +18,21 @@ My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw Univers
 <table>
   <tr>
     <td colspan="3" align="center"> Programming languages </td> 
-    <td colspan="2" align="center"> Tools </td>
+    <td colspan="3" align="center"> Tools </td>
     <td colspan="2" align="center"> Frameworks </td>
     <td colspan="1" align="center"> Databases </td>
   </tr>
   
   <tr>
-      <td align="center" width="96">
+    <td colspan="1" align="center"> Advanced </td> 
+    <td colspan="2" align="center"> Basic </td>
+    <td colspan="3" align="center"> Advanced </td>
+    <td colspan="2" align="center"> Advanced </td>
+    <td colspan="1" align="center"> Basic </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="96">
       <a href="#java">
         <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="48" height="48" alt="java" />
       </a>
@@ -51,16 +63,22 @@ My name is Tomasz Gryczka, currently I am 2nd year IT student at [Warsaw Univers
       <br>VS Code
     </td>
     <td align="center"  width="96">
+      <a href="#intellij">
+        <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="48" height="48" alt="vscode" />
+      </a>
+      <br>IntelliJ
+    </td>
+    <td align="center"  width="96">
       <a href="#junit">
         <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="48" height="48" alt="junit" />
       </a>
       <br>JUnit 5
     </td>
     <td align="center"  width="96">
-      <a href="#javafx">
-        <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="48" height="48" alt="javafx" />
+      <a href="#springboot">
+        <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" width="48" height="48" alt="javafx" />
       </a>
-      <br>JavaFX
+      <br>Spring
     </td>
     <td align="center"  width="96">
       <a href="#mysql">
