@@ -12,6 +12,7 @@ For detailed information please refer to my [**résumé**]().
 | Repository | Status | Description |
 |:---:|:---:|:---:|
 |[Convey](https://github.com/Tomasz-Gryczka/Convey)|In progress|One-to-one web chat application using Spring Boot, Hibernate and MySQL|
+|[Algorithms](https://github.com/TomaszGryczka/algorithms)|Done|Algorithms implemented during my classes at Warsaw University of Technology|
 
 # 🚀 Skills
 
@@ -57,10 +58,10 @@ For detailed information please refer to my [**résumé**]().
       <br>Git
     </td> 
     <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="vscode" />
+      <a href="#maven">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/339px-Apache_Feather_Logo.svg.png" width="48" height="48" alt="vscode" />
       </a>
-      <br>VS Code
+      <br>Maven
     </td>
     <td align="center"  width="96">
       <a href="#intellij">
@@ -90,8 +91,9 @@ For detailed information please refer to my [**résumé**]().
 </table>
 
 # 🌱 Currently learning
-* ML/AI algorithms
 * Spring/Spring Boot web development
+* ML/AI algorithms
+
 
 # :books: Books I'm reading now
 * *Clean Code: A Handbook of Agile Software Craftsmanship* by Robert C. Martin
@@ -104,5 +106,3 @@ For detailed information please refer to my [**résumé**]().
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/gryczka-tomasz/)
   
 </p>
-
-For further information, please check out my [**résumé**]().
