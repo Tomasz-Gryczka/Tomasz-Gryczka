@@ -4,7 +4,7 @@
 
 My name is Tomasz Gryczka, currently I am 2nd year Computer Science student at [Warsaw University of Technology](https://www.pw.edu.pl/engpw).  I love to learn and build something new, productive, innovative and creative. I am an aspiring software developer who is interested in new tools/technologies and how they work. 
 
-For detailed information please refer to my [**résumé**]().
+<!-- For detailed information please refer to my [**résumé**](). -->
 
 
 # 📃 Projects
@@ -28,7 +28,7 @@ For detailed information please refer to my [**résumé**]().
     <td colspan="1" align="center"> Advanced </td> 
     <td colspan="2" align="center"> Basic </td>
     <td colspan="3" align="center"> Advanced </td>
-    <td colspan="2" align="center"> Advanced </td>
+    <td colspan="2" align="center"> Intermediate </td>
     <td colspan="1" align="center"> Basic </td>
   </tr>
   
