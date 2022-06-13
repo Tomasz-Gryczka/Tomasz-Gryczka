@@ -102,7 +102,7 @@ My name is Tomasz Gryczka, currently I am 2nd year Computer Science student at [
 
 <p align = "center">
 
-<a href="mailto:tumek001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" ></a>
+<a href="mailto:tomasz.gryczka.b@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" ></a>
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/gryczka-tomasz/)
   
 </p>
