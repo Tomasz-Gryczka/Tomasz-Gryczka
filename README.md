@@ -7,12 +7,12 @@ My name is Tomasz Gryczka, currently I am 3rd year Applied Computer Science stud
 <!-- For detailed information please refer to my [**résumé**](). -->
 
 
-# 📃 Projects
+<!-- # 📃 Projects
 
 | Repository | Status | Description |
 |:---:|:---:|:---:|
 |[Algorithms](https://github.com/TomaszGryczka/algorithms)|Done|Algorithms implemented during my classes at Warsaw University of Technology|
-|[Convey](https://github.com/Tomasz-Gryczka/Convey)|Suspended|One-to-one web chat application using Spring Boot, Hibernate and MySQL|
+|[Convey](https://github.com/Tomasz-Gryczka/Convey)|Suspended|One-to-one web chat application using Spring Boot, Hibernate and MySQL| -->
 
 # 🚀 Skills
 
